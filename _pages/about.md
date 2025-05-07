@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<p>I am currently a first-year PhD candidate at Cooperative Medianet Innovation Center, Shanghai Jiao Tong University, where I am supervised by Prof. Xiaoyun Zhang and Prof. <a href="https://qianghu-huber.github.io/qianghuhomepage/">Qiang Hu</a>. My research focuses on 3D reconstruction and 3D generation.</p>
+<p>I am currently a first-year PhD candidate at <a href="https://cmic.sjtu.edu.cn/EN/Default.aspx">Cooperative Medianet Innovation Center/a>, <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University/a>, where I am supervised by Prof. Xiaoyun Zhang and Prof. <a href="https://qianghu-huber.github.io/qianghuhomepage/">Qiang Hu</a>. My research focuses on 3D reconstruction and 3D generation.</p>
 
 
 # 🔥 News
@@ -33,9 +33,39 @@ redirect_from:
 
 [4DGC: Rate-Aware 4D Gaussian Compression for Efficient Streamable Free-Viewpoint Video](https://arxiv.org/pdf/2503.18421)
 
-[Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/)^\*^, **Zihan Zheng**^\*^, Houqiang Zhong, Sihua Fu, Li Song, Xiaoyun Zhang, Guangtao Zhai, Yanfeng Wang
+[Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/)<sup>*</sup>, **Zihan Zheng**<sup>*</sup>, Houqiang Zhong, Sihua Fu, Li Song, Xiaoyun Zhang, Guangtao Zhai, Yanfeng Wang
 
 [**Project**](https://github.com/qianghu-huber/4DGC)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/VRVVC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VRVVC: Variable-Rate NeRF-Based Volumetric Video Compression](https://arxiv.org/pdf/2412.11362)
+
+[Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/)<sup>*</sup>, Houqiang Zhong<sup>*</sup>, **Zihan Zheng**, Xiaoyun Zhang, Zhengxue Cheng, Li Song, Guangtao Zhai, Yanfeng Wang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM-MM 2024</div><img src='images/HPC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HPC: Hierarchical Progressive Coding Framework for Volumetric Video](https://arxiv.org/pdf/2407.09026)
+
+ **Zihan Zheng**<sup>*</sup>, Houqiang Zhong<sup>*</sup>, [Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/), Xiaoyun Zhang, Li Song, Ya Zhang, Yanfeng Wang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIP 2024</div><img src='images/JointRF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[JointRF: End-to-End Joint Optimization for Dynamic Neural Radiance Field Representation and Compression](https://arxiv.org/pdf/2405.14452)
+
+ **Zihan Zheng**<sup>*</sup>, Houqiang Zhong<sup>*</sup>, [Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/), Xiaoyun Zhang, Li Song, Ya Zhang, Yanfeng Wang
+
 </div>
 </div>
 
