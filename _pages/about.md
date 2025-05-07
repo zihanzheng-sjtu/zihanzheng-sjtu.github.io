@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<p>I am currently a first-year PhD candidate at Shanghai Jiao Tong University, where I am supervised by Prof. Xiaoyun Zhang and Prof. [Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/). My research focuses on 3D reconstruction and 3D generation.</p>
+<p>I am currently a first-year PhD candidate at Cooperative Medianet Innovation Center, Shanghai Jiao Tong University, where I am supervised by Prof. Xiaoyun Zhang and Prof. <a href="https://qianghu-huber.github.io/qianghuhomepage/">Qiang Hu</a>. My research focuses on 3D reconstruction and 3D generation.</p>
 
 
 # 🔥 News
@@ -33,7 +33,7 @@ redirect_from:
 
 [4DGC: Rate-Aware 4D Gaussian Compression for Efficient Streamable Free-Viewpoint Video](https://arxiv.org/pdf/2503.18421)
 
-Qiang Hu^\*^, **Zihan Zheng**^\*^, Houqiang Zhong, Sihua Fu, Li Song, Xiaoyun Zhang, Guangtao Zhai, Yanfeng Wang
+[Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/)^\*^, **Zihan Zheng**^\*^, Houqiang Zhong, Sihua Fu, Li Song, Xiaoyun Zhang, Guangtao Zhai, Yanfeng Wang
 
 [**Project**](https://github.com/qianghu-huber/4DGC)
 </div>
