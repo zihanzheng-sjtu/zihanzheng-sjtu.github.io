@@ -22,18 +22,18 @@ redirect_from:
 
 # 🔥 News
 - *2025.03*: One paper 4DGC is accepted by CVPR2025.
-- *2024.12*: One paper VRVVC is accepted by AAAI25.
-- *2024.08*: One paper HPC is accepted by ACM-MM24(oral).
-- *2024.06*: One paper JointRF is accepted by ICIP24, which is honored to be **Top 5% of accepted papers**.
+- *2024.12*: One paper VRVVC is accepted by AAAI2025.
+- *2024.08*: One paper HPC is accepted by ACM-MM2024(oral).
+- *2024.06*: One paper JointRF is accepted by ICIP2024, which is honored to be **Top 5% of accepted papers**.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/4dgc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [4DGC: Rate-Aware 4D Gaussian Compression for Efficient Streamable Free-Viewpoint Video](https://arxiv.org/pdf/2503.18421)
 
-Qiang Hu^*^, **Zihan Zheng**^*^, Houqiang Zhong, Sihua Fu, Li Song, Xiaoyun Zhang, Guangtao Zhai, Yanfeng Wang
+Qiang Hu^\*^, **Zihan Zheng**^\*^, Houqiang Zhong, Sihua Fu, Li Song, Xiaoyun Zhang, Guangtao Zhai, Yanfeng Wang
 
 [**Project**](https://github.com/qianghu-huber/4DGC)
 </div>
