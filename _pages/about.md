@@ -37,7 +37,7 @@ redirect_from:
 
 [Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/)<sup>*</sup>, **Zihan Zheng**<sup>*</sup>, Houqiang Zhong, Sihua Fu, Li Song, Xiaoyun Zhang, Guangtao Zhai, Yanfeng Wang
 
-[**Code**](https://github.com/zihanzheng-sjtu/4DGC)
+[**Project Page**](https://mediax-sjtu.github.io/4dgc/), [**Code**](https://github.com/zihanzheng-sjtu/4DGC)
 </div>
 </div>
 
