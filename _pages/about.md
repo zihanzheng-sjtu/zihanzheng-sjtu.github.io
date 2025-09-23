@@ -48,7 +48,7 @@ redirect_from:
 
 [4DGC: Rate-Aware 4D Gaussian Compression for Efficient Streamable Free-Viewpoint Video](https://arxiv.org/pdf/2503.18421)
 
-[Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/)<sup>*</sup>, **Zihan Zheng**<sup>*</sup>, Houqiang Zhong, Sihua Fu, Li Song, Xiaoyun Zhang, Guangtao Zhai, Yanfeng Wang
+[Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/)<sup>*</sup>, **Zihan Zheng**<sup>*</sup>, [Houqiang Zhong](https://waveviewer.github.io/), Sihua Fu, Li Song, Xiaoyun Zhang, Guangtao Zhai, Yanfeng Wang
 
 [**Project Page**](https://mediax-sjtu.github.io/4dgc/), [**Code**](https://github.com/zihanzheng-sjtu/4DGC)
 </div>
@@ -59,7 +59,7 @@ redirect_from:
 
 [VRVVC: Variable-Rate NeRF-Based Volumetric Video Compression](https://arxiv.org/pdf/2412.11362)
 
-[Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/)<sup>*</sup>, Houqiang Zhong<sup>*</sup>, **Zihan Zheng**, Xiaoyun Zhang, Zhengxue Cheng, Li Song, Guangtao Zhai, Yanfeng Wang
+[Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/)<sup>*</sup>, [Houqiang Zhong](https://waveviewer.github.io/)<sup>*</sup>, **Zihan Zheng**, Xiaoyun Zhang, Zhengxue Cheng, Li Song, Guangtao Zhai, Yanfeng Wang
 
 </div>
 </div>
@@ -69,7 +69,7 @@ redirect_from:
 
 [HPC: Hierarchical Progressive Coding Framework for Volumetric Video](https://arxiv.org/pdf/2407.09026)
 
- **Zihan Zheng**<sup>*</sup>, Houqiang Zhong<sup>*</sup>, [Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/), Xiaoyun Zhang, Li Song, Ya Zhang, Yanfeng Wang
+ **Zihan Zheng**<sup>*</sup>, [Houqiang Zhong](https://waveviewer.github.io/)<sup>*</sup>, [Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/), Xiaoyun Zhang, Li Song, Ya Zhang, Yanfeng Wang
 
 </div>
 </div>
@@ -79,7 +79,7 @@ redirect_from:
 
 [JointRF: End-to-End Joint Optimization for Dynamic Neural Radiance Field Representation and Compression](https://arxiv.org/pdf/2405.14452)
 
- **Zihan Zheng**<sup>*</sup>, Houqiang Zhong<sup>*</sup>, [Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/), Xiaoyun Zhang, Li Song, Ya Zhang, Yanfeng Wang
+ **Zihan Zheng**<sup>*</sup>, [Houqiang Zhong](https://waveviewer.github.io/)<sup>*</sup>, [Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/), Xiaoyun Zhang, Li Song, Ya Zhang, Yanfeng Wang
 
 </div>
 </div>
