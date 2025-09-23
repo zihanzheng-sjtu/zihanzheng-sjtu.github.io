@@ -19,16 +19,29 @@ redirect_from:
 
 <p>I am currently a first-year PhD candidate at <a href="https://cmic.sjtu.edu.cn/EN/Default.aspx">Cooperative Medianet Innovation Center</a>, <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>, where I am supervised by Prof. Xiaoyun Zhang and Prof. <a href="https://qianghu-huber.github.io/qianghuhomepage/">Qiang Hu</a>. My research focuses on 3D reconstruction and 3D generation.</p>
 
-<p>In addition, I concurrently served as a counselor for students majoring in Artificial Intelligence of the 2024 class from the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, as well as for students of the IEEE pilot classes (in the direction of Information Engineering) of the 2022, 2023, and 2024 classes from the School of Information and Electronic Engineering, Shanghai Jiao Tong University.</p>
+<p>In addition, I concurrently served as a counselor for students majoring in Artificial Intelligence of the 2024 class from the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, as well as for students of the IEEE pilot classes (in the direction of Information Engineering) of the 2022, 2023, 2024 and 2025 classes from the School of Information and Electronic Engineering, Shanghai Jiao Tong University.</p>
 
 
 # 🔥 News
+- *2025.09*: One paper PrismGS is accepted by VCIP2025.
+- *2025.09*: One paper 4DGCPro is accepted by NeurIPS2025.
 - *2025.03*: One paper 4DGC is accepted by CVPR2025.
 - *2024.12*: One paper VRVVC is accepted by AAAI2025.
 - *2024.08*: One paper HPC is accepted by ACM-MM2024(oral).
 - *2024.06*: One paper JointRF is accepted by ICIP2024, which is honored to be **Top 5% of accepted papers**.
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/4dgcpro.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[4DGCPro: Efficient Hierarchical 4D Gaussian Compression for Progressive Volumetric Video Streaming](https://arxiv.org/pdf/2509.17513)
+
+**Zihan Zheng**, Zhenlong Wu, [Houqiang Zhong](https://waveviewer.github.io/), Yuan Tian, Ning Cao, Lan Xu, Jiangchao Yao, Xiaoyun Zhang, [Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/), Wenjun Zhang, 
+
+[**Project Page**](https://mediax-sjtu.github.io/4DGCPro/)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/4dgc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
