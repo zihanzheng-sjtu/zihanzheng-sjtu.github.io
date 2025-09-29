@@ -37,7 +37,7 @@ redirect_from:
 
 [4DGCPro: Efficient Hierarchical 4D Gaussian Compression for Progressive Volumetric Video Streaming](https://arxiv.org/pdf/2509.17513)
 
-**Zihan Zheng**, Zhenlong Wu, [Houqiang Zhong](https://waveviewer.github.io/), Yuan Tian, Ning Cao, Lan Xu, Jiangchao Yao, Xiaoyun Zhang, [Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/), Wenjun Zhang, 
+**Zihan Zheng**, Zhenlong Wu, [Houqiang Zhong](https://waveviewer.github.io/), Yuan Tian, Ning Cao, Lan Xu, Jiangchao Yao, Xiaoyun Zhang, [Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/), Wenjun Zhang
 
 [**Project Page**](https://mediax-sjtu.github.io/4DGCPro/)
 </div>
