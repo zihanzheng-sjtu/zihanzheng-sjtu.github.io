@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<p>I am currently a first-year PhD candidate at <a href="https://cmic.sjtu.edu.cn/EN/Default.aspx">Cooperative Medianet Innovation Center</a>, <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>, where I am supervised by Prof. Xiaoyun Zhang and Prof. <a href="https://qianghu-huber.github.io/qianghuhomepage/">Qiang Hu</a>. My research focuses on 3D reconstruction and 3D generation.</p>
+<p>I am currently a second-year PhD candidate at <a href="https://mediax.sjtu.edu.cn/">MediaX Lab</a>, <a href="https://cmic.sjtu.edu.cn/EN/Default.aspx">Cooperative Medianet Innovation Center</a>, <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>, where I am supervised by Prof. Xiaoyun Zhang and Prof. <a href="https://qianghu-huber.github.io/qianghuhomepage/">Qiang Hu</a>. My research focuses on 3D reconstruction and 3D generation.</p>
 
 <p>In addition, I concurrently served as a counselor for students majoring in Artificial Intelligence of the 2024 class from the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, as well as for students of the IEEE pilot classes (in the direction of Information Engineering) of the 2022, 2023, 2024 and 2025 classes from the School of Information and Electronic Engineering, Shanghai Jiao Tong University.</p>
 
