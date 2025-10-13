@@ -32,6 +32,16 @@ redirect_from:
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VCIP 2025</div><img src='images/PrismGS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PrismGS: Physically-Grounded Anti-Aliasing for High-Fidelity Large-Scale 3D Gaussian Splatting](https://arxiv.org/pdf/2510.07830)
+
+[Houqiang Zhong](https://waveviewer.github.io/)<sup>*</sup>, Zhenlong Wu<sup>*</sup>, Sihua Fu<sup>*</sup>, **Zihan Zheng**, Xin Jin, Xiaoyun Zhang, Li Song, [Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/4dgcpro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
