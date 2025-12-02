@@ -23,10 +23,13 @@ redirect_from:
 
 
 # 🔥 News
+- *2025.12*: Will attend SIGGRAPH Asia 2025 and give an oral presentation at Volumetric Video Workshop.
+- *2025.12*: Second Place, SIGGRAPH Asia 2025 Volumetric Video Challenge - Compression Track.
 - *2025.09*: One paper PrismGS is accepted by VCIP2025.
 - *2025.09*: One paper 4DGCPro is accepted by NeurIPS2025.
 - *2025.03*: One paper 4DGC is accepted by CVPR2025.
 - *2024.12*: One paper VRVVC is accepted by AAAI2025.
+- *2024.10*: Will attend ACM-MM2024 and give an oral presentation.
 - *2024.08*: One paper HPC is accepted by ACM-MM2024(oral).
 - *2024.06*: One paper JointRF is accepted by ICIP2024, which is honored to be **Top 5% of accepted papers**.
 
@@ -97,6 +100,7 @@ redirect_from:
 
 # 🎖 Honors and Awards
 - *2024.04* Outstanding Graduate of Shanghai Jiao Tong University.
+- *2025.12* Second Place, SIGGRAPH Asia 2025 Volumetric Video Challenge - Compression Track
 
 # 📖 Educations
 - *2024.09 - now*, PhD Student, Electronic Science and Technology, Shanghai Jiao Tong University.
