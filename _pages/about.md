@@ -101,6 +101,7 @@ redirect_from:
 # 🎖 Honors and Awards
 - *2024.04* Outstanding Graduate of Shanghai Jiao Tong University.
 - *2025.12* Second Place, SIGGRAPH Asia 2025 Volumetric Video Challenge - Compression Track
+- *2025.12* 2025 Academic Year Outstanding Graduate Student Scholarship, Shanghai Jiao Tong University
 
 # 📖 Educations
 - *2024.09 - now*, PhD Student, Electronic Science and Technology, Shanghai Jiao Tong University.
