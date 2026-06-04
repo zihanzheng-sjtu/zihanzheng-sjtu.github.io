@@ -23,6 +23,8 @@ redirect_from:
 
 
 # 🔥 News
+- *2026.05*: First Place, Dynamic Gaussian Splatting Compression Challenge, ICME2026.
+- *2026.03*: Join <a href="https://xg.auto/">XG Tech</a> Agentic Labs as an intern.
 - *2025.12*: Will attend SIGGRAPH Asia 2025 and give an oral presentation at Volumetric Video Workshop.
 - *2025.12*: Second Place, SIGGRAPH Asia 2025 Volumetric Video Challenge - Compression Track.
 - *2025.09*: One paper PrismGS is accepted by VCIP2025.
@@ -97,13 +99,16 @@ redirect_from:
 </div>
 </div>
 
+# Services
+Reviewer:
+- CVPR, NeurIPS, ICIP
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2024.04* Outstanding Graduate of Shanghai Jiao Tong University.
 - *2025.12* Second Place, SIGGRAPH Asia 2025 Volumetric Video Challenge - Compression Track
 - *2025.12* 2025 Academic Year Outstanding Graduate Student Scholarship, Shanghai Jiao Tong University
 
-# 📖 Educations
+# Educations
 - *2024.09 - now*, PhD Student, Electronic Science and Technology, Shanghai Jiao Tong University.
 - *2020.09 - 2024.06*, Undergraduate, Artificial Intelligence, Shanghai Jiao Tong University.
 
