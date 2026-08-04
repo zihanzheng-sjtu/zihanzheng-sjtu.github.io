@@ -19,21 +19,27 @@ redirect_from:
 
 <p>I am currently a second-year PhD candidate at <a href="https://mediax.sjtu.edu.cn/">MediaX Lab</a>, <a href="https://cmic.sjtu.edu.cn/EN/Default.aspx">Cooperative Medianet Innovation Center</a>, <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>, where I am supervised by Prof. Xiaoyun Zhang and Prof. <a href="https://qianghu-huber.github.io/qianghuhomepage/">Qiang Hu</a>. My research focuses on 3D reconstruction and 3D generation.</p>
 
-<p>In addition, I concurrently served as a counselor for students majoring in Artificial Intelligence of the 2024 class from the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, as well as for students of the IEEE pilot classes (in the direction of Information Engineering) of the 2022, 2023, 2024 and 2025 classes from the School of Information and Electronic Engineering, Shanghai Jiao Tong University.</p>
-
-
 # 🔥 News
-- *2026.05*: First Place, Dynamic Gaussian Splatting Compression Challenge, ICME2026.
-- *2026.03*: Join <a href="https://xg.auto/">XG Tech</a> Agentic Labs as an intern.
-- *2025.12*: Will attend SIGGRAPH Asia 2025 and give an oral presentation at Volumetric Video Workshop.
-- *2025.12*: Second Place, SIGGRAPH Asia 2025 Volumetric Video Challenge - Compression Track.
-- *2025.09*: One paper PrismGS is accepted by VCIP2025.
-- *2025.09*: One paper 4DGCPro is accepted by NeurIPS2025.
-- *2025.03*: One paper 4DGC is accepted by CVPR2025.
-- *2024.12*: One paper VRVVC is accepted by AAAI2025.
-- *2024.10*: Will attend ACM-MM2024 and give an oral presentation.
-- *2024.08*: One paper HPC is accepted by ACM-MM2024(oral).
-- *2024.06*: One paper JointRF is accepted by ICIP2024, which is honored to be **Top 5% of accepted papers**.
+- *2026.05*: Won first place in the Dynamic Gaussian Splatting Compression Challenge at ICME 2026.
+- *2026.03*: Joined <a href="https://xg.auto/">XG Tech</a> Agentic Labs as an intern.
+- *2025.12*: Attended SIGGRAPH Asia 2025 and gave an oral presentation at the Volumetric Video Workshop.
+- *2025.12*: Won second place in the Compression Track of the SIGGRAPH Asia 2025 Volumetric Video Challenge.
+- *2025.09*: PrismGS was accepted to VCIP 2025.
+- *2025.09*: 4DGCPro was accepted to NeurIPS 2025.
+- *2025.03*: 4DGC was accepted to CVPR 2025.
+- *2024.12*: VRVVC was accepted to AAAI 2025.
+- *2024.10*: Attended ACM MM 2024 and gave an oral presentation.
+- *2024.08*: HPC was accepted to ACM MM 2024 as an oral presentation.
+
+<details>
+<summary><strong>Earlier News</strong></summary>
+<div markdown="1">
+
+- *2024.06*: JointRF was accepted to ICIP 2024 and was recognized among the **top 5% of accepted papers**.
+
+</div>
+</details>
+
 
 # 📝 Publications 
 
@@ -99,17 +105,35 @@ redirect_from:
 </div>
 </div>
 
-# Services
-Reviewer:
-- CVPR, NeurIPS, ICIP
+# 💼 Experience
 
-# Honors and Awards
+## Industry Experience
+- **Intern**, <a href="https://arcab.ai/">Arcab.ai</a>  
+  *Mar. 2026 - Present*  
+  **Mentors:** Chunlei Cai and Yichen Gong
+
+## Research Experience
+- **PhD Student**, <a href="https://mediax.sjtu.edu.cn/">MediaX Lab</a>, <a href="https://cmic.sjtu.edu.cn/EN/Default.aspx">Cooperative Medianet Innovation Center</a>, Shanghai Jiao Tong University  
+  *Sep. 2024 - Present*  
+  **Supervisors:** Prof. Xiaoyun Zhang and Prof. <a href="https://qianghu-huber.github.io/qianghuhomepage/">Qiang Hu</a>  
+  Research on 3D/4D Gaussian Splatting, volumetric video compression, and efficient streaming.
+
+# 🤝 Services
+
+## Reviewer
+- **Conferences:** CVPR, NeurIPS, ICIP
+- **Journals:** IEEE TVCG, IEEE TCSVT
+
+## Student Counselor
+- Counselor for students majoring in Artificial Intelligence, Class of 2024, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University.
+- Counselor for students in the IEEE Pilot Classes in Information Engineering, Classes of 2022-2025, School of Information and Electronic Engineering, Shanghai Jiao Tong University.
+
+# 🏆 Honors and Awards
 - *2024.04* Outstanding Graduate of Shanghai Jiao Tong University.
 - *2025.12* Second Place, SIGGRAPH Asia 2025 Volumetric Video Challenge - Compression Track
 - *2025.12* 2025 Academic Year Outstanding Graduate Student Scholarship, Shanghai Jiao Tong University
+- *2026.05*: First place, ICME 2026 Dynamic Gaussian Splatting Compression Challenge
 
-# Educations
+# 🎓 Education
 - *2024.09 - now*, PhD Student, Electronic Science and Technology, Shanghai Jiao Tong University.
 - *2020.09 - 2024.06*, Undergraduate, Artificial Intelligence, Shanghai Jiao Tong University.
-
-
