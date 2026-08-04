@@ -21,7 +21,7 @@ redirect_from:
 
 # 🔥 News
 - *2026.05*: Won first place in the Dynamic Gaussian Splatting Compression Challenge at ICME 2026.
-- *2026.03*: Joined <a href="https://xg.auto/">XG Tech</a> Agentic Labs as an intern.
+- *2026.03*: Joined <a href="https://acrab.ai/">Acrab.ai</a>  Agentic Labs as an intern.
 - *2025.12*: Attended SIGGRAPH Asia 2025 and gave an oral presentation at the Volumetric Video Workshop.
 - *2025.12*: Won second place in the Compression Track of the SIGGRAPH Asia 2025 Volumetric Video Challenge.
 - *2025.09*: PrismGS was accepted to VCIP 2025.
@@ -108,7 +108,7 @@ redirect_from:
 # 💼 Experience
 
 ## Industry Experience
-- **Intern**, <a href="https://arcab.ai/">Arcab.ai</a>  
+- **Intern**, Agentic Labs, <a href="https://acrab.ai/">Acrab.ai</a>  
   *Mar. 2026 - Present*  
   **Mentors:** Chunlei Cai and Yichen Gong
 
