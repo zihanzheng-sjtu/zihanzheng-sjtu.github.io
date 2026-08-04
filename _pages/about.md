@@ -118,6 +118,11 @@ redirect_from:
   **Supervisors:** Prof. Xiaoyun Zhang and Prof. <a href="https://qianghu-huber.github.io/qianghuhomepage/">Qiang Hu</a>  
   Research on 3D/4D Gaussian Splatting, volumetric video compression, and efficient streaming.
 
+- **Undergraduate Research Intern**, <a href="https://mediabrain.sjtu.edu.cn/">MediaBrain</a>, <a href="https://cmic.sjtu.edu.cn/EN/Default.aspx">Cooperative Medianet Innovation Center</a>, Shanghai Jiao Tong University  
+  *Mar. 2022 - Jun.2023*  
+  **Supervisors:** Prof. <a href="https://siheng-chen.github.io/">Siheng Chen</a>  
+  Research on autonomous driving and cooperative perception.
+
 # 🤝 Services
 
 ## Reviewer
