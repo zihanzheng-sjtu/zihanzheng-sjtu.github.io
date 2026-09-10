@@ -20,6 +20,7 @@ redirect_from:
 <p>I am currently a second-year PhD candidate at <a href="https://mediax.sjtu.edu.cn/">MediaX Lab</a>, <a href="https://cmic.sjtu.edu.cn/EN/Default.aspx">Cooperative Medianet Innovation Center</a>, <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>, where I am supervised by Prof. Xiaoyun Zhang and Prof. <a href="https://qianghu-huber.github.io/qianghuhomepage/">Qiang Hu</a>. My research focuses on 3D reconstruction and 3D generation.</p>
 
 # 🔥 News
+- *2026.09*: GenSplatCodec was accepted to TMM 2026.
 - *2026.05*: Won first place in the Dynamic Gaussian Splatting Compression Challenge at ICME 2026.
 - *2026.03*: Joined <a href="https://acrab.ai/">Acrab.ai</a>  Agentic Labs as an intern.
 - *2025.12*: Attended SIGGRAPH Asia 2025 and gave an oral presentation at the Volumetric Video Workshop.
@@ -29,12 +30,12 @@ redirect_from:
 - *2025.03*: 4DGC was accepted to CVPR 2025.
 - *2024.12*: VRVVC was accepted to AAAI 2025.
 - *2024.10*: Attended ACM MM 2024 and gave an oral presentation.
-- *2024.08*: HPC was accepted to ACM MM 2024 as an oral presentation.
 
 <details>
 <summary><strong>Earlier News</strong></summary>
 <div markdown="1">
 
+- *2024.08*: HPC was accepted to ACM MM 2024 as an oral presentation.
 - *2024.06*: JointRF was accepted to ICIP 2024 and was recognized among the **top 5% of accepted papers**.
 
 </div>
@@ -42,6 +43,16 @@ redirect_from:
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2026</div><img src='images/gensplatcodec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GenSplatCodec: Feed-Forward Gaussian Splatting Compression via One-Step Diffusion](https://arxiv.org/abs/2607.24403)
+
+[Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/), Zhenlong Wu, Lei Huang, **Zihan Zheng**,  Xiaoyun Zhang, Wenjun Zhang 
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VCIP 2025</div><img src='images/PrismGS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
