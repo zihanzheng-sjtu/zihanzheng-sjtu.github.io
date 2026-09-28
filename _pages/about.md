@@ -20,6 +20,7 @@ redirect_from:
 <p>I am currently a second-year PhD candidate at <a href="https://mediax.sjtu.edu.cn/">MediaX Lab</a>, <a href="https://cmic.sjtu.edu.cn/EN/Default.aspx">Cooperative Medianet Innovation Center</a>, <a href="https://en.sjtu.edu.cn/">Shanghai Jiao Tong University</a>, where I am supervised by Prof. Xiaoyun Zhang and Prof. <a href="https://qianghu-huber.github.io/qianghuhomepage/">Qiang Hu</a>. My research focuses on 3D reconstruction and 3D generation.</p>
 
 # 🔥 News
+- *2026.09*: CDGS was accepted to TCSVT 2026.
 - *2026.09*: GenSplatCodec was accepted to TMM 2026.
 - *2026.05*: Won first place in the Dynamic Gaussian Splatting Compression Challenge at ICME 2026.
 - *2026.03*: Joined <a href="https://acrab.ai/">Acrab.ai</a>  Agentic Labs as an intern.
@@ -29,12 +30,11 @@ redirect_from:
 - *2025.09*: 4DGCPro was accepted to NeurIPS 2025.
 - *2025.03*: 4DGC was accepted to CVPR 2025.
 - *2024.12*: VRVVC was accepted to AAAI 2025.
-- *2024.10*: Attended ACM MM 2024 and gave an oral presentation.
 
 <details>
 <summary><strong>Earlier News</strong></summary>
 <div markdown="1">
-
+- *2024.10*: Attended ACM MM 2024 and gave an oral presentation.
 - *2024.08*: HPC was accepted to ACM MM 2024 as an oral presentation.
 - *2024.06*: JointRF was accepted to ICIP 2024 and was recognized among the **top 5% of accepted papers**.
 
@@ -44,12 +44,22 @@ redirect_from:
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2026</div><img src='images/cdgs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Constrained Dynamic Gaussian Splatting](https://arxiv.org/abs/2602.03538)
+
+**Zihan Zheng**, Zhenlong Wu, Xuanxuan Wang, [Houqiang Zhong](https://waveviewer.github.io/),  Xiaoyun Zhang, [Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/), Guangtao Zhai, [Wenjun Zhang](https://icisee.sjtu.edu.cn/jiaoshiml/497.html) 
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2026</div><img src='images/gensplatcodec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GenSplatCodec: Feed-Forward Gaussian Splatting Compression via One-Step Diffusion](https://arxiv.org/abs/2607.24403)
 
-[Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/), Zhenlong Wu, Lei Huang, **Zihan Zheng**,  Xiaoyun Zhang, Wenjun Zhang 
+[Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/), Zhenlong Wu, Lei Huang, **Zihan Zheng**,  Xiaoyun Zhang, [Wenjun Zhang](https://icisee.sjtu.edu.cn/jiaoshiml/497.html) 
 
 </div>
 </div>
@@ -69,7 +79,7 @@ redirect_from:
 
 [4DGCPro: Efficient Hierarchical 4D Gaussian Compression for Progressive Volumetric Video Streaming](https://arxiv.org/pdf/2509.17513)
 
-**Zihan Zheng**, Zhenlong Wu, [Houqiang Zhong](https://waveviewer.github.io/), Yuan Tian, Ning Cao, Lan Xu, Jiangchao Yao, Xiaoyun Zhang, [Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/), Wenjun Zhang
+**Zihan Zheng**, Zhenlong Wu, [Houqiang Zhong](https://waveviewer.github.io/), Yuan Tian, Ning Cao, Lan Xu, Jiangchao Yao, Xiaoyun Zhang, [Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/), [Wenjun Zhang](https://icisee.sjtu.edu.cn/jiaoshiml/497.html)
 
 [**Project Page**](https://mediax-sjtu.github.io/4DGCPro/)
 </div>
