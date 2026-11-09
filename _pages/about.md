@@ -148,7 +148,7 @@ redirect_from:
 
 ## Reviewer
 - **Conferences:** CVPR, NeurIPS, ICIP
-- **Journals:** IEEE TVCG, IEEE TCSVT
+- **Journals:** IEEE TVCG, IEEE TCSVT, ACM TOMM
 
 ## Student Counselor
 - Counselor for students majoring in Artificial Intelligence, Class of 2024, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University.
