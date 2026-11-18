@@ -64,7 +64,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMEW</div><img src='images/DyGSBench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMEW 2026</div><img src='images/DyGSBench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Attribute-Based Pruning and Adaptive Quantization for Dynamic 3D Gaussian Splatting Compression](https://ieeexplore.ieee.org/abstract/document/11720693/)
