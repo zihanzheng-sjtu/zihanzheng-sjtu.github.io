@@ -64,6 +64,16 @@ redirect_from:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMEW</div><img src='images/DyGSBench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Attribute-Based Pruning and Adaptive Quantization for Dynamic 3D Gaussian Splatting Compression](https://ieeexplore.ieee.org/abstract/document/11720693/)
+[DyGSBench: The ICME 2026 Grand Challenge on Dynamic 3D Gaussian Splatting Compression](https://ieeexplore.ieee.org/abstract/document/11720830)
+Zhenlong Wu, **Zihan Zheng**, Xuanxuan Wang, Xiaoyun Zhang, [Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VCIP 2025</div><img src='images/PrismGS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
