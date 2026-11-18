@@ -68,7 +68,9 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 [Attribute-Based Pruning and Adaptive Quantization for Dynamic 3D Gaussian Splatting Compression](https://ieeexplore.ieee.org/abstract/document/11720693/)
+
 [DyGSBench: The ICME 2026 Grand Challenge on Dynamic 3D Gaussian Splatting Compression](https://ieeexplore.ieee.org/abstract/document/11720830)
+
 Zhenlong Wu, **Zihan Zheng**, Xuanxuan Wang, Xiaoyun Zhang, [Qiang Hu](https://qianghu-huber.github.io/qianghuhomepage/)
 
 </div>
